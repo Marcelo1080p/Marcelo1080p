@@ -1,4 +1,4 @@
-### Olá, eu sou <p style="color: #E75590">Marcelo Junior</p>
+### Olá, eu sou Marcelo Junior
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo1080p&show_icons=true&theme=tokyonight)
 
