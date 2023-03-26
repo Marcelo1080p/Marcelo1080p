@@ -1,4 +1,4 @@
-### Olá, eu sou Marcelo Junior
+### Olá, eu sou <p style="background: linear-gradient(to left, #E75590, #00C1C2)">Marcelo Junior</p>
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelo1080p&show_icons=true&theme=tokyonight)
 
