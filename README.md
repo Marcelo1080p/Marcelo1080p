@@ -11,10 +11,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=marcelo1080p&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo1080p&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" width="48%" />
 </p>
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=marcelo1080p&icon=0&color=0" alt="Profile Views" />
-  </a>
-</p>
